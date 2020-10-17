@@ -1,0 +1,62 @@
+body {
+   font-family: "Comic Sans MS", "Comic Sans", cursive;
+ }
+
+
+ .reshka {
+   background-image: url(./reshla.jpg);
+   background-repeat: no-repeat;
+   width: 100px;
+   height: 100px;
+   background-size: 100px;
+ }
+ .orel {
+   background-image: url(./orel-1.jpg);
+   background-repeat: no-repeat;
+  background-size: 100px;
+   width: 100px;
+   height: 100px;
+ }
+ .column {
+   display: inline-block;
+   min-width: 300px;
+   vertical-align: top;
+   padding-right: 20px;
+   height: 100%;
+ }
+
+ .column textarea {
+   width: 100%;
+ }
+
+ .larger {
+   width: 60%;
+ }
+
+ .larger p,
+ .larger li {
+   font-size: 15pt;
+   line-height: 22pt;
+ }
+
+ .smaller {
+   width: 30%;
+ }
+
+ li {
+   margin-bottom: 10px;
+ }
+
+ .controls {
+   margin-bottom: 20px;
+ }
+
+ .controls button {
+   font-size: 20px;
+   width: 40%;
+   padding: 10px;
+   margin-bottom: 10px;
+   margin-right: 10px;
+ }
+
+

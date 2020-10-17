@@ -1,1 +1,1 @@
-# generator-of-congratulation
+# congratulation-generator
